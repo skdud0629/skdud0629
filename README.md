@@ -10,7 +10,8 @@
 - 🎓 Computer Science background  
 - 📱 Specialized in **Android development** with Kotlin & Jetpack Compose  
 - ⚡ Focused on **mobile app architecture, performance optimization, and scalable UI**  
-- 🛠 Experience with **TensorFlow Lite integration** and data visualization in mobile apps  
+- 🛠 Experience with **TensorFlow Lite integration** and data visualization in mobile apps
+- 🔗 Used **JNI (Java Native Interface)** to integrate C++ native libraries with Android
 
 ---
 
