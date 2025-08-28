@@ -24,6 +24,16 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
+## 📂 Project
+### 📌 KOIN – University Life Support Platform (Student App)
+- 🏫 Campus life support app with 1,100+ DAU  
+- 👨‍💻 Role: Android Engineer (Java, Kotlin, Compose, MVVM, MVI)  
+- 🔧 Improved error monitoring & app stability  
+
+### 📌 KOIN for Business – Store Owner Management App
+- 🛍️ Management app for store owners to update and maintain shop information  
+- 👨‍💻 Role: Android Engineer (Kotlin, Compose, MVVM, MVI, Orbit)  
+- 🛠 Implemented design system and enforced mandatory updates  
 
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=skdud0629&show_icons=true&theme=radical)  
